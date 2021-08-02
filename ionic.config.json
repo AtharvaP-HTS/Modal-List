@@ -1,0 +1,8 @@
+{
+  "name": "Modal-List",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "dff1b785"
+}
